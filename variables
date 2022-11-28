@@ -1,0 +1,9 @@
+using System;
+class HelloWorld {
+  static void Main() {
+      int n=100;
+      string m="hai";
+      Console.WriteLine(n);
+      Console.WriteLine(m);
+      }
+}
